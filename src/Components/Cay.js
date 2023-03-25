@@ -23,7 +23,7 @@ const Cay = () => {
       {CayData.map((tea) => (
         <div className="flex justify-between w-full">
           <div className="pl-4 pt-2">{tea.title}</div>
-          <div className="pr-4">{tea.price}</div>
+          <div className="pr-4 pt-2">{tea.price}</div>
         </div>
       ))}
     </div>

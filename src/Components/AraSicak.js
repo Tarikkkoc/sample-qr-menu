@@ -20,7 +20,7 @@ const AraSicak = () => {
             <div className="pl-4 pt-2 underline underline-offset-4">
               {warmStarter.title}
             </div>
-            <div className="pr-4">{warmStarter.price}</div>
+            <div className="pr-4 pt-2">{warmStarter.price}</div>
           </div>
           <div className="pr-4 pl-4 indent-2 text-sm">{warmStarter.desc}</div>
         </div>

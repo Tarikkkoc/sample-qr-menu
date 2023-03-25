@@ -17,7 +17,7 @@ const Tatli = () => {
       {TatliData.map((dessert) => (
         <div className="flex justify-between w-full">
           <div className="pl-4 pt-2">{dessert.title}</div>
-          <div className="pr-4">{dessert.price}</div>
+          <div className="pr-4 pt-2">{dessert.price}</div>
         </div>
       ))}
     </div>

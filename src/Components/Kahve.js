@@ -17,7 +17,7 @@ const Kahve = () => {
       {KahveData.map((coffee) => (
         <div className="flex justify-between w-full">
           <div className="pl-4 pt-2">{coffee.title}</div>
-          <div className="pr-4">{coffee.price}</div>
+          <div className="pr-4 pt-2">{coffee.price}</div>
         </div>
       ))}
     </div>

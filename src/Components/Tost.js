@@ -20,7 +20,7 @@ const Tost = () => {
             <div className="pl-4 pt-2 underline underline-offset-4">
               {toast.title}
             </div>
-            <div className="pr-4">{toast.price}</div>
+            <div className="pr-4 pt-2">{toast.price}</div>
           </div>
           <div className="pr-4 pl-4 indent-2 text-sm">{toast.desc}</div>
         </div>
