@@ -1,0 +1,26 @@
+[
+    {
+        "itemId" : 1,
+        "title" : "Patates Tava",
+        "price" : "₺60.00",
+        "desc": "Cajun baharatlı patates kızartması"
+    },
+    {
+        "itemId" : 2,
+        "title" : "Sigara Böreği",
+        "price" : "₺50.00",
+        "desc": "10 adet sigara böreği"
+    },
+    {
+        "itemId" : 3,
+        "title" : "Çıtır Tavuk",
+        "price" : "₺80.00",
+        "desc": "Jülyen tavuk paneleri, patates ve barbekü sos ile ikram edilir."
+    },
+    {
+        "itemId" : 4,
+        "title" : "Paçanga Böreği",
+        "price" : "₺65.00",
+        "desc": "2 adet paçanga böreği"
+    }
+]

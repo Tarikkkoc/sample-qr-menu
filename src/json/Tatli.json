@@ -1,0 +1,27 @@
+[
+    {
+        "itemId" : 1,
+        "title" : "Limonlu Cheescake",
+        "price" : "₺60.00"
+    },
+    {
+        "itemId" : 2,
+        "title" : "Frambuazlı Cheescake",
+        "price" : "₺60.00"
+    },
+    {
+        "itemId" : 3,
+        "title" : "Tiramisu",
+        "price" : "₺60.00"
+    },
+    {
+        "itemId" : 4,
+        "title" : "San Sebastian",
+        "price" : "₺80.00"
+    },
+    {
+        "itemId" : 5,
+        "title" : "Mozaik Pasta",
+        "price" : "₺45.00"
+    }
+]

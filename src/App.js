@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Cay from "./Components/Cay";
+import Logo from "./Components/Logo";
+import Kahve from "./Components/Kahve";
+import Tost from "./Components/Tost";
+import AraSicak from "./Components/AraSicak";
+import Tatli from "./Components/Tatli";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App bg-yellow-100 flex flex-col  h-auto">
+      <Logo />
+      <Cay />
+      <Kahve />
+      <Tost />
+      <AraSicak />
+      <Tatli />
     </div>
   );
 }

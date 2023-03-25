@@ -1,0 +1,42 @@
+[
+    {
+        "itemId" : 1,
+        "title" : "Türk Kahvesi",
+        "price" : "₺30.00"
+    },
+    {
+        "itemId" : 2,
+        "title" : "Dibek Kahvesi",
+        "price" : "₺32.00"
+    },
+    {
+        "itemId" : 3,
+        "title" : "Menengiç Kahvesi",
+        "price" : "₺32.00"
+    },
+    {
+        "itemId" : 4,
+        "title" : "Damla Sakızlı Türk Kahvesi",
+        "price" : "₺35.00"
+    },
+    {
+        "itemId" : 5,
+        "title" : "Cappucino",
+        "price" : "₺45.00"
+    },
+    {
+        "itemId" : 6,
+        "title" : "Americano",
+        "price" : "₺45.00"
+    },
+    {
+        "itemId" : 7,
+        "title" : "Macchiato",
+        "price" : "₺45.00"
+    },
+    {
+        "itemId" : 8,
+        "title" : "Espresso",
+        "price" : "₺45.00"
+    }
+]
